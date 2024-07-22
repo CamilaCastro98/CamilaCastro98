@@ -1,16 +1,18 @@
-## Hi there 👋
+#✨ Hola, soy Camila! ✨
 
-<!--
-**CamilaCastro98/CamilaCastro98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Sobre mí
+Soy desarrolladora front de web y móvil. Me encanta participar en proyectos y convertir ideas en productos útiles y eficientes.
 
-Here are some ideas to get you started:
+### 🔧 Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, TypeScript, HTML5, CSS
+- **Frameworks y Librerías:** React, React Native, Expo, Next
+- **Conocimientos de backend:** Node.js, Express, MongoDB, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Proyectos Destacados
+- **Hobbify:** Una app móvil para conectar personas con intereses y hobbies en común. Cuenta con chat en tiempo real, perfil personalizable, autenticación con terceros, pasarelas de pago y sistema de búsqueda y filtrado.
+- **Tech Ecommerce:** Front de ecommerce de productos tecnológicos con búsqueda y filtrado, carrito y persistencia de sesión.
+
+### 💌 Contacto
+- **Mail:** camilacastrog98@gmail.com
+- **Linkedin:** www.linkedin.com/in/camilacastrogimenez
+
